@@ -1,3 +1,4 @@
+// Add a comment
 // Utility_ImageLoadAndSave.cpp
 /*
     Note: Before getting started, Basler recommends reading the Programmer's Guide topic
